@@ -1,2 +1,2 @@
-# Odin-recipes
-practicing html 
+# Recipes
+A website for getting recipies for favorite dishes..
